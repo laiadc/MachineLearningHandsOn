@@ -11,7 +11,7 @@ Introducción al machine learning y al diseño de modelos predictivos.
 ## [Ethics and sentiment analysis](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main/day3/Ethics%20and%20sentiment%20analysis.ipynb)
 Introducción a la ética de los datos
 
-## [Deep learning for image recognition:](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main/day4/Deep%20learning%20for%20image%20recognition.ipynb)
+## [Deep learning for image recognition:](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main/day4/Deep%20learning%20image%20recognition.ipynb)
 Introducción al deep learning
 
 ## [Interpretable data science:](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main/day5/Interpretable%20data%20science.ipynb)
