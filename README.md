@@ -17,6 +17,6 @@ Introducción al deep learning
 ## [Interpretable data science:](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main/day5/Interpretable%20data%20science.ipynb)
 Introducción a la ciencia de datos explicable
 
-## [Superhero or supervillain?] (https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main//day6-10/Superhero%20or%20supervillain.ipynb) 
+## [Superhero or supervillain?](https://colab.research.google.com/github/laiadc/MachineLearningHandsOn/blob/main//day6-10/Superhero%20or%20supervillain.ipynb) 
 Proyecto final
 
